@@ -1,16 +1,81 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**ShivangM-Dev/ShivangM-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Shivang**, a **Full Stack Developer**.
 
-Here are some ideas to get you started:
+I build end-to-end products — from clean UIs to scalable backends.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If a problem annoys me enough, I usually end up building a solution and shipping it.
+
+---
+
+### Tech Stack
+
+**Frontend**
+
+* React
+* TypeScript
+* Tailwind CSS
+* Next.js
+
+**Backend**
+
+* Node.js
+* Fastify / Express
+* REST APIs
+* Authentication & Authorization
+
+**Database & Infra**
+
+* PostgreSQL / MongoDB
+* Prisma / Mongoose
+* Docker (basic)
+* Cloud deployments (Vercel / Render / AWS basics)
+
+**Tools**
+
+* Git & GitHub
+* Postman
+* VS Code
+* Linux
+
+---
+
+### Projects
+
+I’ve built multiple public and private projects covering:
+
+* Full-stack web apps
+* API-first backends
+* File processing & automation
+* SaaS-style dashboards
+
+Most projects focus on **real-world problems**, not tutorials.
+
+---
+
+### Philosophy
+
+* Ship fast, then improve
+* Simple > clever
+* Code should be boring and predictable
+* If it doesn’t scale, it’s broken
+
+---
+
+### Currently Learning
+
+* System design
+* Backend performance & scaling
+* Better database modeling
+
+---
+
+### Fun Facts
+
+* I prefer building over talking
+* I like solving backend problems and polishing UI
+* Debugging is half the job
+
+---
+
+If something here helps you, feel free to star or fork the repo.
