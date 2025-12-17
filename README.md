@@ -13,8 +13,11 @@ I’ve built multiple public projects, and even more private ones while experime
 
 
 Fun Facts:
-I prefer backend problems with UI polish
+
+I prefer backend problems over UI polish
+
 I like building things more than talking about them
+
 Debugging is half the job
 
-Hobbies: coding, gym, learning systems and football
+Hobbies: coding, gym, learning systems, football
