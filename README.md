@@ -1,5 +1,5 @@
 Hey there! 👋
-I’m **Shivang**, a **Full Stack Developer** based in India.
+I’m **[Shivang](https://shivangmandal.vercel.app/)**, a **Full Stack Developer** based in India.
 
 I design and build complete products — frontend to backend.
 
@@ -13,7 +13,8 @@ I’ve built multiple public projects, and even more private ones while experime
 
 
 Fun Facts:
-I prefer backend problems over UI polish
+I prefer backend problems with UI polish
 I like building things more than talking about them
 Debugging is half the job
-Hobbies: coding, gym, learning systems
+
+Hobbies: coding, gym, learning systems and football
