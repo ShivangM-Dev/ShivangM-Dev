@@ -1,4 +1,4 @@
-**Hey there! 👋**
+***Hey there! 👋***
 
 I’m **[Shivang](https://shivangmandal.vercel.app/)**, a **Full Stack Developer** based in India.
 
