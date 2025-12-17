@@ -12,12 +12,9 @@ I’ve got a bunch of pinned projects, mostly focused on full‑stack apps and b
 I’ve built multiple public projects, and even more private ones while experimenting and learning.
 
 
-Fun Facts:
-
-I prefer backend problems over UI polish
-
-I like building things more than talking about them
-
-Debugging is half the job
-
-Hobbies: coding, gym, learning systems, football
+**Fun Facts:**
+* I prefer backend problems over UI polish
+* I like building things more than talking about them
+* Debugging is half the job
+* Hobbies: coding, gym, learning systems and football
+  
