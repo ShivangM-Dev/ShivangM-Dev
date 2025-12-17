@@ -1,81 +1,19 @@
-# Hey there! 👋
+Hey there! 👋
+I’m **Shivang**, a **Full Stack Developer** based in India.
 
-I'm **Shivang**, a **Full Stack Developer**.
+I design and build complete products — frontend to backend.
 
-I build end-to-end products — from clean UIs to scalable backends.
+If a real problem shows up, chances are I’ll try to build a solution and ship it.
 
-If a problem annoys me enough, I usually end up building a solution and shipping it.
+My main tech stack is React, TypeScript, Node.js, Fastify/Express, and PostgreSQL. My favorite tools are VS Code, GitHub, Postman, and Linux.
 
----
+I’ve got a bunch of pinned projects, mostly focused on full‑stack apps and backend systems.
 
-### Tech Stack
+I’ve built multiple public projects, and even more private ones while experimenting and learning.
 
-**Frontend**
 
-* React
-* TypeScript
-* Tailwind CSS
-* Next.js
-
-**Backend**
-
-* Node.js
-* Fastify / Express
-* REST APIs
-* Authentication & Authorization
-
-**Database & Infra**
-
-* PostgreSQL / MongoDB
-* Prisma / Mongoose
-* Docker (basic)
-* Cloud deployments (Vercel / Render / AWS basics)
-
-**Tools**
-
-* Git & GitHub
-* Postman
-* VS Code
-* Linux
-
----
-
-### Projects
-
-I’ve built multiple public and private projects covering:
-
-* Full-stack web apps
-* API-first backends
-* File processing & automation
-* SaaS-style dashboards
-
-Most projects focus on **real-world problems**, not tutorials.
-
----
-
-### Philosophy
-
-* Ship fast, then improve
-* Simple > clever
-* Code should be boring and predictable
-* If it doesn’t scale, it’s broken
-
----
-
-### Currently Learning
-
-* System design
-* Backend performance & scaling
-* Better database modeling
-
----
-
-### Fun Facts
-
-* I prefer building over talking
-* I like solving backend problems and polishing UI
-* Debugging is half the job
-
----
-
-If something here helps you, feel free to star or fork the repo.
+Fun Facts:
+I prefer backend problems over UI polish
+I like building things more than talking about them
+Debugging is half the job
+Hobbies: coding, gym, learning systems
