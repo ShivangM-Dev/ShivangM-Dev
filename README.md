@@ -1,11 +1,13 @@
-Hey there! 👋
+**Hey there! 👋**
 I’m **[Shivang](https://shivangmandal.vercel.app/)**, a **Full Stack Developer** based in India.
 
 I design and build complete products — frontend to backend.
 
 If a real problem shows up, chances are I’ll try to build a solution and ship it.
 
-My main tech stack is React, TypeScript, Node.js, Fastify/Express, and PostgreSQL. My favorite tools are VS Code, GitHub, Postman, and Linux.
+My main tech stack is React, TypeScript, Node.js, Fastify/Express, and PostgreSQL. 
+
+My favorite tools are VS Code, GitHub, Postman, and Linux.
 
 I’ve got a bunch of pinned projects, mostly focused on full‑stack apps and backend systems.
 
