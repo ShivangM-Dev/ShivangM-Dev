@@ -6,11 +6,6 @@ If a real problem shows up, chances are I’ll try to build a solution and ship 
 
 Currently grinding code, systems, and scalability.  
 Powered by coffee ☕, headphones 🎧, and debugger breakpoints 🧠
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ShivangM-Dev.ShivangM-Dev)
----
-
-
-
 
 ---
 
@@ -44,14 +39,10 @@ Powered by coffee ☕, headphones 🎧, and debugger breakpoints 🧠
 
 ---
 
-
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivangM-Dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&include_all_commits=false)
 
----
-
-### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=ShivangM-Dev&theme=tokyonight&no-frame=true&column=7)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ShivangM-Dev.ShivangM-Dev)
 
 ---
 
