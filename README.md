@@ -12,6 +12,14 @@ Powered by coffee ☕, headphones 🎧, and debugger breakpoints 🧠
 
 
 
+---
+
+### 📌 What I Build
+- Full-stack applications (frontend + backend)
+- APIs and backend systems
+- Databases, scalability, and system design
+- Public projects + many private experiments
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="22"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="22"/>
@@ -28,14 +36,6 @@ Powered by coffee ☕, headphones 🎧, and debugger breakpoints 🧠
 
 ---
 
-### 📌 What I Build
-- Full-stack applications (frontend + backend)
-- APIs and backend systems
-- Databases, scalability, and system design
-- Public projects + many private experiments
-
----
-
 ### 🧠 Fun Facts
 - I prefer backend problems over UI polish  
 - I like building things more than talking about them  
@@ -44,7 +44,6 @@ Powered by coffee ☕, headphones 🎧, and debugger breakpoints 🧠
 
 ---
 
----
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivangM-Dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&include_all_commits=false)
