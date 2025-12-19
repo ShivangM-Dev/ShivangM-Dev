@@ -6,15 +6,12 @@ If a real problem shows up, chances are I’ll try to build a solution and ship 
 
 Currently grinding code, systems, and scalability.  
 Powered by coffee ☕, headphones 🎧, and debugger breakpoints 🧠
-
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ShivangM-Dev.ShivangM-Dev)
 ---
 
-### 👀 Visitors
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ShivangM-Dev.ShivangM-Dev)
 
 
 
-### 🛠 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="22"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="22"/>
