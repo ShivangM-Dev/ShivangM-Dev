@@ -12,12 +12,7 @@ Powered by coffee ☕, headphones 🎧, and debugger breakpoints 🧠
 ### 👀 Visitors
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ShivangM-Dev.ShivangM-Dev)
 
----
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivangM-Dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&include_all_commits=false)
-
----
 
 ### 🛠 Tech Stack
 <p>
@@ -49,6 +44,13 @@ Powered by coffee ☕, headphones 🎧, and debugger breakpoints 🧠
 - I like building things more than talking about them  
 - Debugging is half the job  
 - Hobbies: coding, gym, systems, football ⚽  
+
+---
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivangM-Dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&include_all_commits=false)
 
 ---
 
